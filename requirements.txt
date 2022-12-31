@@ -3,3 +3,5 @@ black
 isort
 pre-commit
 pytest
+
+./cards_proj
