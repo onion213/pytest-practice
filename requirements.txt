@@ -1,2 +1,5 @@
 pytest
-
+black
+isort
+pre-commit
+pytest
